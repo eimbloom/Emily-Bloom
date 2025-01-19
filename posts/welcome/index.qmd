@@ -1,11 +1,11 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Emily Bloom"
 date: "2024-12-24"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This blog will show some data science projects using social science data. Welcome!
 
 ![](thumbnail.jpg)
 

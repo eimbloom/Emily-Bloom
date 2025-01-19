@@ -1,6 +1,6 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
+author: "Emily Bloom"
 date: "2024-12-27"
 categories: [news, code, analysis]
 image: "image.jpg"

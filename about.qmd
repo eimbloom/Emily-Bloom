@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: profile2.jpg
 about:
   template: jolla
   links:
@@ -9,11 +9,14 @@ about:
       href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://se.linkedin.com/in/eimbloom
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/eimbloom
 
 ---
 
 About this blog
+
+Welcome! Are you interested in what data says about people, politics and society? Let's get into it! This will be a space to share the results of projects seeking to answer social science questions with data science approaches.
+

@@ -11,4 +11,6 @@ page-layout: full
 title-block-banner: true
 ---
 
+###About this blog
 
+Welcome! Are you interested in what data says about people, politics and society? Let's get into it! This will be a space to share the results of projects seeking to answer social science questions with data science approaches.
